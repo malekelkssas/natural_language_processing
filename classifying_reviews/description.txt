@@ -1,0 +1,7 @@
+This is a dataset from keras for sentiment classification containing
+25,000 reviews which every
+is already preprocessed and has a label as either positive or negative
+, each review is encoded by integers that represents how
+common a word is in the entire dataset
+,E.G if a word encoded by the integer 3 means that it is the
+3rd most common word in the dataset.
